@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh Iden
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning natural language processing in Python
-- 💞️ I’m looking to collaborate on data science projects in Python
+- 👀 I’m currently pursuing an MS in Data Science at City University of New York
+- 🌱 I’m interested in machine learning and visual analytics 
+- 💞️ I’m looking to collaborate on data science projects in Python and R
 - 📫 Reach me @ iden.josh@gmail.com
 
 <!---
